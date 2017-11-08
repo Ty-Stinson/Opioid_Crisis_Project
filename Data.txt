@@ -1,0 +1,153 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"15-24 years"	"15-24"	"2001"	"2001"	731	40213570	1.8
+	"15-24 years"	"15-24"	"2002"	"2002"	887	40854135	2.2
+	"15-24 years"	"15-24"	"2003"	"2003"	1093	41388854	2.6
+	"15-24 years"	"15-24"	"2004"	"2004"	1215	41948112	2.9
+	"15-24 years"	"15-24"	"2005"	"2005"	1194	42446169	2.8
+	"15-24 years"	"15-24"	"2006"	"2006"	1503	42843844	3.5
+	"15-24 years"	"15-24"	"2007"	"2007"	1552	43145815	3.6
+	"15-24 years"	"15-24"	"2008"	"2008"	1612	43391492	3.7
+	"15-24 years"	"15-24"	"2009"	"2009"	1529	43576932	3.5
+	"15-24 years"	"15-24"	"2010"	"2010"	1568	43626342	3.6
+	"15-24 years"	"15-24"	"2011"	"2011"	1693	43797875	3.9
+	"15-24 years"	"15-24"	"2012"	"2012"	1639	43943905	3.7
+	"15-24 years"	"15-24"	"2013"	"2013"	1744	43954402	4.0
+	"15-24 years"	"15-24"	"2014"	"2014"	1843	43979821	4.2
+	"15-24 years"	"15-24"	"2015"	"2015"	2104	43848216	4.8
+"Total"	"15-24 years"	"15-24"			21907	642959484	3.4
+	"25-34 years"	"25-34"	"2001"	"2001"	1307	39471522	3.3
+	"25-34 years"	"25-34"	"2002"	"2002"	1638	39349646	4.2
+	"25-34 years"	"25-34"	"2003"	"2003"	1802	39243795	4.6
+	"25-34 years"	"25-34"	"2004"	"2004"	1833	39266556	4.7
+	"25-34 years"	"25-34"	"2005"	"2005"	2037	39258647	5.2
+	"25-34 years"	"25-34"	"2006"	"2006"	2482	39395179	6.3
+	"25-34 years"	"25-34"	"2007"	"2007"	2552	39713463	6.4
+	"25-34 years"	"25-34"	"2008"	"2008"	2698	40207473	6.7
+	"25-34 years"	"25-34"	"2009"	"2009"	2806	40723342	6.9
+	"25-34 years"	"25-34"	"2010"	"2010"	2853	41063948	6.9
+	"25-34 years"	"25-34"	"2011"	"2011"	3251	41790498	7.8
+	"25-34 years"	"25-34"	"2012"	"2012"	3509	42309321	8.3
+	"25-34 years"	"25-34"	"2013"	"2013"	3814	42844587	8.9
+	"25-34 years"	"25-34"	"2014"	"2014"	4539	43516504	10.4
+	"25-34 years"	"25-34"	"2015"	"2015"	5553	44137202	12.6
+"Total"	"25-34 years"	"25-34"			42674	612291683	7.0
+	"35-44 years"	"35-44"	"2001"	"2001"	2534	45051752	5.6
+	"35-44 years"	"35-44"	"2002"	"2002"	3041	44640649	6.8
+	"35-44 years"	"35-44"	"2003"	"2003"	3064	44154206	6.9
+	"35-44 years"	"35-44"	"2004"	"2004"	2942	43800275	6.7
+	"35-44 years"	"35-44"	"2005"	"2005"	2790	43505538	6.4
+	"35-44 years"	"35-44"	"2006"	"2006"	3112	43243801	7.2
+	"35-44 years"	"35-44"	"2007"	"2007"	3047	42796230	7.1
+	"35-44 years"	"35-44"	"2008"	"2008"	3016	42192486	7.1
+	"35-44 years"	"35-44"	"2009"	"2009"	2916	41487811	7.0
+	"35-44 years"	"35-44"	"2010"	"2010"	2750	41070606	6.7
+	"35-44 years"	"35-44"	"2011"	"2011"	2829	40627954	7.0
+	"35-44 years"	"35-44"	"2012"	"2012"	2960	40516420	7.3
+	"35-44 years"	"35-44"	"2013"	"2013"	3222	40452690	8.0
+	"35-44 years"	"35-44"	"2014"	"2014"	3678	40513133	9.1
+	"35-44 years"	"35-44"	"2015"	"2015"	4428	40589783	10.9
+"Total"	"35-44 years"	"35-44"			46329	634643334	7.3
+	"45-54 years"	"45-54"	"2001"	"2001"	1818	39386268	4.6
+	"45-54 years"	"45-54"	"2002"	"2002"	2373	39992194	5.9
+	"45-54 years"	"45-54"	"2003"	"2003"	2621	40819954	6.4
+	"45-54 years"	"45-54"	"2004"	"2004"	2689	41629930	6.5
+	"45-54 years"	"45-54"	"2005"	"2005"	3030	42495904	7.1
+	"45-54 years"	"45-54"	"2006"	"2006"	3527	43286159	8.1
+	"45-54 years"	"45-54"	"2007"	"2007"	3528	43939939	8.0
+	"45-54 years"	"45-54"	"2008"	"2008"	3610	44460447	8.1
+	"45-54 years"	"45-54"	"2009"	"2009"	3603	44867088	8.0
+	"45-54 years"	"45-54"	"2010"	"2010"	3313	45006716	7.4
+	"45-54 years"	"45-54"	"2011"	"2011"	3361	44718203	7.5
+	"45-54 years"	"45-54"	"2012"	"2012"	3581	44268738	8.1
+	"45-54 years"	"45-54"	"2013"	"2013"	3663	43767532	8.4
+	"45-54 years"	"45-54"	"2014"	"2014"	3871	43458851	8.9
+	"45-54 years"	"45-54"	"2015"	"2015"	4242	43188161	9.8
+"Total"	"45-54 years"	"45-54"			48830	645286084	7.6
+	"55-64 years"	"55-64"	"2001"	"2001"	310	25105295	1.2
+	"55-64 years"	"55-64"	"2002"	"2002"	430	26703332	1.6
+	"55-64 years"	"55-64"	"2003"	"2003"	550	28008945	2.0
+	"55-64 years"	"55-64"	"2004"	"2004"	663	29305304	2.3
+	"55-64 years"	"55-64"	"2005"	"2005"	752	30641497	2.5
+	"55-64 years"	"55-64"	"2006"	"2006"	966	31930113	3.0
+	"55-64 years"	"55-64"	"2007"	"2007"	1144	33128434	3.5
+	"55-64 years"	"55-64"	"2008"	"2008"	1254	34157063	3.7
+	"55-64 years"	"55-64"	"2009"	"2009"	1503	35405600	4.2
+	"55-64 years"	"55-64"	"2010"	"2010"	1516	36482729	4.2
+	"55-64 years"	"55-64"	"2011"	"2011"	1607	38062140	4.2
+	"55-64 years"	"55-64"	"2012"	"2012"	1815	38586202	4.7
+	"55-64 years"	"55-64"	"2013"	"2013"	2201	39316431	5.6
+	"55-64 years"	"55-64"	"2014"	"2014"	2473	40077581	6.2
+	"55-64 years"	"55-64"	"2015"	"2015"	2822	40877819	6.9
+"Total"	"55-64 years"	"55-64"			20006	507788485	3.9
+"Total"					179746	3042969070	5.9
+"---"
+"Dataset: Multiple Cause of Death, 1999-2015"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: T40.0 (Opium), T40.1 (Heroin), T40.2 (Other opioids), T40.3 (Methadone), T40.4 (Other synthetic narcotics),"
+"T40.6 (Other and unspecified narcotics)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years"
+"UCD - ICD-10 Codes: X41 (Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and"
+"psychotropic drugs, not elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified), X61 (Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic,"
+"antiparkinsonism and psychotropic drugs, not elsewhere classified), X62 (Intentional self-poisoning by and exposure to narcotics"
+"and psychodysleptics [hallucinogens], not elsewhere classified), X85 (Assault by drugs, medicaments and biological substances),"
+"Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere"
+"classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified, undetermined intent)"
+"Weekday: All"
+"Year/Month: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015"
+"Group By: Ten-Year Age Groups, Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 19, 2017 5:55:43 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2015 on CDC WONDER Online Database, released December, 2016. Data are from the Multiple Cause of Death Files, 1999-2015, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 19, 2017 5:55:43 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"6. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015"
+"postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for"
+"year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS"
+"on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2012 postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the"
+"July 1 resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population"
+"figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July"
+"1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
