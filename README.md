@@ -1,1 +1,2 @@
-# aoe_department_project
+#  Hello, 
+# My name is Ty Stinson and this is my group submission for the 2017 Art of Engineering Department Project for Computer Science. The goal of this program is analyze the Opioid Epidemic from the perspective of multiple demographics and predict how this problem will these demographics in the future. Using data from Center of Disease Control, the program generates several graphs depicting the Opioid Crisis by age group, then it allows the user to see how the Opioid Epidemic will continue affect a certain age group going into future using polynomial regression.
